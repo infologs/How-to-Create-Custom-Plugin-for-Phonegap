@@ -1,0 +1,10 @@
+{
+    "cordova-infologs-echo": {
+        "source": {
+            "type": "local",
+            "path": "EchoPlugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
